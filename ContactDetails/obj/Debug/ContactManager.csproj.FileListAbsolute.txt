@@ -1,0 +1,6 @@
+C:\Users\1994a\source\repos\Data Structures\ContactManager\ContactDetails\bin\Debug\ContactDetails.dll
+C:\Users\1994a\source\repos\Data Structures\ContactManager\ContactDetails\bin\Debug\ContactDetails.pdb
+C:\Users\1994a\source\repos\Data Structures\ContactManager\ContactDetails\obj\Debug\ContactManager.csprojAssemblyReference.cache
+C:\Users\1994a\source\repos\Data Structures\ContactManager\ContactDetails\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\1994a\source\repos\Data Structures\ContactManager\ContactDetails\obj\Debug\ContactDetails.dll
+C:\Users\1994a\source\repos\Data Structures\ContactManager\ContactDetails\obj\Debug\ContactDetails.pdb

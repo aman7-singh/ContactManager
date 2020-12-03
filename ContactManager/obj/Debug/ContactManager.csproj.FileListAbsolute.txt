@@ -1,0 +1,7 @@
+C:\Users\1994a\source\repos\Data Structures\ContactManager\ContactManager\bin\Debug\ContactManager.exe.config
+C:\Users\1994a\source\repos\Data Structures\ContactManager\ContactManager\bin\Debug\ContactManager.exe
+C:\Users\1994a\source\repos\Data Structures\ContactManager\ContactManager\bin\Debug\ContactManager.pdb
+C:\Users\1994a\source\repos\Data Structures\ContactManager\ContactManager\obj\Debug\ContactManager.csprojAssemblyReference.cache
+C:\Users\1994a\source\repos\Data Structures\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\1994a\source\repos\Data Structures\ContactManager\ContactManager\obj\Debug\ContactManager.exe
+C:\Users\1994a\source\repos\Data Structures\ContactManager\ContactManager\obj\Debug\ContactManager.pdb
